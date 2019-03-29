@@ -68,4 +68,15 @@ categorize(sentence8)
 categorize(sentence9)
 categorize(sentence10)
 
+#The output looks like this:
+# [1] "Sports"
+# [1] "Politics"
+# [1] "Science"
+# [1] "News"
+# [1] "News"
+# [1] "Science"
+# [1] "Politics"
+# [1] "Sports"
+# [1] "Science"
+# [1] "News"
 
